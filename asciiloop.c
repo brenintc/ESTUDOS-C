@@ -2,23 +2,28 @@
 
 int main() 
 {
-    unsigned char c = 65;
-    int letra;
+    unsigned char letra = 0;
+    int contador = 0;
+    char decisao;
     
-    for (letra = 0; letra <= 255; letra++) {
-        printf("%c - %d\n", c, letra);
-        c++;
+    while (letra <= 255) {
+        printf("%c - %d\n", letra, letra);
+        letra++;
+        contador++;
         
-        if (letra == 20) {
-            char decisao;
+        if (contador == 20) {
             printf("\nDeseja continuar? (c/C para continuar): ");
             scanf(" %c", &decisao);
             
             if (decisao != 'C' && decisao != 'c') {
                 break;
             }
+            
+            contador = 0;
+            printf("\n");
         }
     }
     
+    printf("\nFim do programa!\n");
     return 0;
 }
