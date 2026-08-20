@@ -4,7 +4,7 @@ Documentando os códigos que desenvolvo enquanto leio o livro Linguagem C, 10th 
 # Loops
 
 ## ASCII Table Printer
-Um programa simples que imprime a tabela ASCII com opção de pausa.
+Um programa simples que imprime a tabela ASCII com pausa.
 
 Desafio:
 
