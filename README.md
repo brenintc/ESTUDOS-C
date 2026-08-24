@@ -29,3 +29,13 @@ A fim de que o usuário possa ver todos os caracteres escritos, a tela deve ser 
 - Uso de unsigned char
 - Limpeza do buffer do scanf
 - Controle de fluxo com break/continue
+
+## Ramo Printer
+
+Desafio:
+
+Escreva um programa que coloque na tela meia árvore de natal com asteriscos. O número de ramos deverá ser introduzido pelo usuário.
+
+## O que aprendi:
+- Manipulação de caracteres
+- Lógica do Loop For
