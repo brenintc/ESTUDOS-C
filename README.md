@@ -34,6 +34,16 @@ Desafio:
 
 Escreva um programa completo em C que solicite ao usuário dois números inteiros entre 0 e 255 e escreva na tela todos os caracteres da tabela ASCII cujos códigos variem entre os dois números introduzidos, escrevendo em cada linha o código ASCII e o caractere correspondente.
 
+## Número 1 a 100
 
+Desafio:
+
+Escreva um programa que solicite um número ao usuário até que o valor deste esteja entre os valores 1 e 100.
+
+## Laços aprendidos
+- For
+- While
+- Do While
 g
 
+##
