@@ -10,18 +10,6 @@ Desafio:
 
 Escreva um programa em C que escreva na tela toda a tabela ASCII (0..255 chars), escrevendo em cada linha o código ASCII e o caractere correspondente.
 
-Exemplo:
-
-...
-
-65 --> A
-
-66 --> B
-
-67 --> C
-
-...
-
 A fim de que o usuário possa ver todos os caracteres escritos, a tela deve ser parada de 20 em 20 linhas, até que o usuário pressione a tecla 'c' ou 'C' seguida de <ENTER> para continuar a mostrar os próximos 20 caracteres (20 linhas).
 
 ## O que aprendi:
@@ -39,3 +27,13 @@ Escreva um programa que coloque na tela meia árvore de natal com asteriscos. O 
 ## O que aprendi:
 - Manipulação de caracteres
 - Lógica do Loop For
+
+## ASCII Printer 2
+
+Desafio:
+
+Escreva um programa completo em C que solicite ao usuário dois números inteiros entre 0 e 255 e escreva na tela todos os caracteres da tabela ASCII cujos códigos variem entre os dois números introduzidos, escrevendo em cada linha o código ASCII e o caractere correspondente.
+
+
+g
+
